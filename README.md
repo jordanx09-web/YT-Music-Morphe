@@ -1,6 +1,6 @@
 <div align="center">
 
-# YT-Music Morphe
+# YT-Music-Morphe
 ### The Ultimate Rooted Music Experience
 
 <a href="https://github.com/jordanx09-web/YT-Music-Morphe/releases">
