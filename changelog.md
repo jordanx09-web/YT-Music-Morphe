@@ -1,12 +1,9 @@
-# YT-Music Morphe Changelog
-
 ## v9.16.51 (Latest)
-* **Base Update:** Migrated to YouTube Music v7.16.51
+* **Base Update:** Migrated to YouTube Music v9.16.51
 * **UI:** Refined AMOLED dark theme
 * **Core:** Updated Morphe patch integration
 * **Fixes:** Stability improvements, playback fixes, and enhanced root environment compatibility
 
----
 
 ## v9.11.54 (Latest)
 * **Update:** Upgraded module base and core files.
