@@ -8,7 +8,7 @@ This update refreshes the module with the latest base version and upstream impro
 
 📋 Changelog
 
-- Base Update: Migrated to "v7.16.51"
+- Base Update: Migrated to "v9.16.51"
 - 🎨 UI: Refined AMOLED dark theme
 - ⚙️ Core: Updated Morphe patch integration
 - 🐞 Fixes:
