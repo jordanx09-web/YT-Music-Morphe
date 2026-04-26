@@ -1,15 +1,17 @@
-# 🎵 YT-Music Morphe v9.11.54
+🎧 YT-Music Morphe v9.16.51 (Stable)
 
-### ℹ️ Build Information
-* **Module Version:** v9.11.54
-* **YouTube Music Base:** v7.11.54
-* **Build Date:** 25-03-2026
-* **Platform:** Android 8.0+ (Root Required)
-* **Architecture:** arm64-v8a
+Latest Update: April 26, 2026
+
+This update refreshes the module with the latest base version and upstream improvements to ensure a smoother and more reliable experience.
 
 ---
 
-### 🚀 What's New
-* **Update:** Upgraded module base and core files.
-* **Enhancement:** General stability and performance improvements.
-* **Maintenance:** Synced with the latest Morphe Patcher upstream
+📋 Changelog
+
+- Base Update: Migrated to "v7.16.51"
+- 🎨 UI: Refined AMOLED dark theme
+- ⚙️ Core: Updated Morphe patch integration
+- 🐞 Fixes:
+  - Stability improvements
+  - Playback fixes
+  - Enhanced root environment compatibility
