@@ -1,3 +1,9 @@
+## v8.47.56 (Latest)
+* **Base Update:** Migrated to YouTube Music v8.47.56
+* **Channel:** Switched back to Stable build
+* **UI:** Refined AMOLED dark theme
+* **Fixes:** Improved overall stability and enhanced root environment compatibility
+* 
 ## v9.16.51 (Latest)
 * **Base Update:** Migrated to YouTube Music v9.16.51
 * **UI:** Refined AMOLED dark theme
