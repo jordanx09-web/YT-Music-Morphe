@@ -1,17 +1,18 @@
-🎧 YT-Music Morphe v9.16.51 (Stable)
+🎧 YT-Music Morphe v8.47.56 (Stable)
 
-Latest Update: April 26, 2026
+Latest Update: May 24, 2026
 
-This update refreshes the module with the latest base version and upstream improvements to ensure a smoother and more reliable experience.
+This release marks our transition back to the stable build channel, ensuring maximum reliability and long-term compatibility for your music streaming experience.
 
 ---
 
 📋 Changelog
 
-- Base Update: Migrated to "v9.16.51"
+- Base Update: Migrated to "v8.47.56"
+- ⚙️ Channel: Switched back to Stable build
 - 🎨 UI: Refined AMOLED dark theme
-- ⚙️ Core: Updated Morphe patch integration
 - 🐞 Fixes:
-  - Stability improvements
-  - Playback fixes
+  - Improved overall stability
   - Enhanced root environment compatibility
+  
+Note : Remove old module then flash this module.
