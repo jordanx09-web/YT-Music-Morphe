@@ -1,3 +1,9 @@
+## v9.15.51 (Latest)
+* **Base Update:** Migrated to YouTube Music v9.15.51
+* **UI:** Refined AMOLED dark theme
+* **Core:** Updated Morphe patch integration
+* **Fixes:** Stability improvements, playback fixes, and enhanced root environment compatibility
+
 ## v8.47.56 (Latest)
 * **Base Update:** Migrated to YouTube Music v8.47.56
 * **Channel:** Switched back to Stable build
